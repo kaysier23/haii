@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding: 0;
   background-color: gray;
-  height: 500px;
+  height: 300px;
   width: 1050px;  
 }
 h1{
@@ -43,7 +43,7 @@ h6{
   border: 2px solid black;
   margin-left: 600px;
 }
-container{
+h7{
    height: 300px;
   width: 200px;
   border: 2px solid black;
